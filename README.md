@@ -5,9 +5,9 @@ For this project we have used the Wisconsin dataset which is available on: https
 
 **Information about the attributes:**
 
-*1) ID number 2) Diagnosis (M = malignant, B = benign) 3-33)* Includes various real-world features that is being diagnosed to check the cancer type like radius_mean (this is distances from center to points on the perimeter and taking mean of it), fractal dimension ("coastline approximation" - 1)* and their are more parameters.
+*1) ID number 2) Diagnosis (M = malignant, B = benign) 3-33)* Includes various real-world features that is being diagnosed to check the cancer type like radius_mean (this is distances from center to points on the perimeter and taking mean of it), fractal dimension ("coastline approximation" - 1) and their are more parameters.
 
-*The dataset includes 569 Rows and 33 columns(1 is dependent variable)
+The dataset includes 569 Rows and 33 columns(1 is dependent variable)
 
 **This prediction is a classfication based problem hence supervised learning algorithm here. Hence, for making prediction I have used Logistics Regression and K-Nearest nighbour here.**
 
@@ -23,4 +23,5 @@ Logistic Regression        |: 96.5 %
 KNN Classifier             |: 72.51 %
 
 Logistic Regression - Sachin_Singh_Breast_Prediction_LogReg.ipynb
+
 K-Nearest Neighbour - BreastCancerDiagnostic_KNN.ipynb
