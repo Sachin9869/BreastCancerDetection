@@ -19,8 +19,8 @@ The dataset includes 569 Rows and 33 columns(1 is dependent variable)
 
 Algorithm                  | Accuracy
 -----------                | --------
-Logistic Regression        |: 96.5 %
-KNN Classifier             |: 72.51 %
+Logistic Regression        |  96.5 %
+KNN Classifier             |  72.51 %
 
 Logistic Regression - Sachin_Singh_Breast_Prediction_LogReg.ipynb
 
